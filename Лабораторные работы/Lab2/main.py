@@ -2,8 +2,8 @@
 
 if __name__ == '__main__':
 
-    file_name = 'C:\\Users\\dimaz\\Desktop\\Denis_Labs\\Lab2\\images\\icecream.pnm'
-    result_file_name = 'C:\\Users\\dimaz\\Desktop\\Denis_Labs\\Lab2\\result\\icecream.pnm'
+    file_name = 'C:\\Users\\De Neas\\Desktop\\Labs\\Lab2\\images\\icecream.pnm'
+    result_file_name = 'C:\\Users\\De Neas\\Desktop\\Labs\\Lab2\\result\\icecream.pnm'
 
     # Opening pnm file data for read    
     image = open(file_name, 'r')
